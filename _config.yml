@@ -2,6 +2,7 @@ name: 'Prestige Living Blog '
 favicon: null
 layout_spectrum: 0.049051869893446565
 typography_spectrum: 0.4495193453039974
+title: 'PrestigeLivingBlog '
 cta:
   domain: null
   bucket: null
