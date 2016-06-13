@@ -1,20 +1,4 @@
-name: 'Prestige Living Blog '
-favicon: null
-layout_spectrum: 0.049051869893446565
 typography_spectrum: 0.4495193453039974
-title: 'PrestigeLivingBlog '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -26,4 +10,23 @@ color:
   lightness: 0.34979545534588397
   saturation: 0.9385678148828447
   rhythmicContrast: 0.20423001353628933
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.049051869893446565
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+author:
+  name: Kyriacos C.Kolokasides
+  email: k.kolokasides@gmail.com
+name: 'Prestige Living Blog '
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: All about quality lifestyle
 purpose: []
