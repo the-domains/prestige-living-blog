@@ -1,44 +1,44 @@
-name: 'Prestige Living Blog '
-opengraph:
-  image: null
-  type: null
-  appId: null
-author:
-  name: Kyriacos C.Kolokasides
-  email: k.kolokasides@gmail.com
+title: All about quality lifestyle
+purpose: []
 collections:
   - index:
       path: /
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.1817944562062621
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.539568800944835
-  brandStrength: 0.1342806408647448
-  rhythmicContrast: 0.4029467275831848
-  brandColors:
-    - '#E8E595'
-    - '#D0A825'
-    - '#40627C'
-    - '#26393D'
-    - '#FFFAE4'
+  brandStrength: 1
   lightness: 0.09904017625376582
+  brandColors:
+    - '#F4F3EF'
+    - '#292929'
+    - '#8C7C62'
+    - '#090408'
+    - '#AAA9AE'
+  rhythmicContrast: 0.4029467275831848
 cta:
   bucket: null
   version: null
   domain: null
-title: All about quality lifestyle
-purpose: []
-favicon: null
-typography_spectrum: 0.8939005536958575
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: 'Prestige Living Blog '
+author:
+  name: Kyriacos C.Kolokasides
+  email: k.kolokasides@gmail.com
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.8939005536958575
+layout_spectrum: 0.1817944562062621
