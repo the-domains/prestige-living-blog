@@ -1,4 +1,6 @@
 typography_spectrum: 0.8939005536958575
+content_rating:
+  adult: true
 color:
   saturation: 0.539568800944835
   brandStrength: 1
@@ -22,7 +24,8 @@ analytics:
 author:
   name: Kyriacos C.Kolokasides
   email: k.kolokasides@gmail.com
-logo: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8ff551e6-80b9-4e49-886c-2ba057c5bc7e.png
 name: 'Prestige Living Blog '
 cta:
   bucket: null
